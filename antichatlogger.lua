@@ -7,7 +7,7 @@ end
 task.wait(5)
 
 local ACL_LoadTime = tick()
-local NotificationTitle = "UserCreation."
+local NotificationTitle = "Nano"
 
 local OldCoreTypeSettings = {}
 local WhitelistedCoreTypes = {
